@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    padding:1rem 2rem;
+}
+
+#guage{
+    height: 15px;
+    background-color: red;
+    width: 0%;
+    border-radius:15px;
+}
+#scale{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#previousGuesses{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap:1rem;
+}
